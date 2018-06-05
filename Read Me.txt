@@ -1,0 +1,13 @@
+大作业展示报告：v5.0中间件大作业实验报告
+
+大作业展示ppt：中间件展示 v3.0
+
+大作业代码：代码
+1、原始项目代码：Xmu.Crms.Insomnia.Raw
+2、分布式：Xmu.Crms.Insomnia.Orleans
+3、异步： Xmu.Crms.Insomnia.Async
+	Xmu.Crms.Insomnia.Async.2.1
+
+成员学号、姓名、分工及排序：成员名单
+
+测试结果：test_result
